@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guill\\OneDrive\\Documentos\\corte2\\Sesion12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9566F3-7FE8-484B-8E17-646F7C3A2E98}|Sesion12\\Sesion12.csproj|c:\\users\\guill\\onedrive\\documentos\\corte2\\sesion12\\sesion12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF9566F3-7FE8-484B-8E17-646F7C3A2E98}|Sesion12\\Sesion12.csproj|solutionrelative:sesion12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\Documentos\\corte2\\Sesion12\\Sesion12\\Form1.cs",
+              "RelativeDocumentMoniker": "Sesion12\\Form1.cs",
+              "ToolTip": "C:\\Users\\guill\\OneDrive\\Documentos\\corte2\\Sesion12\\Sesion12\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sesion12\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:20:12.274Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
